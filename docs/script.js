@@ -23,7 +23,7 @@ const CONFIG = {
   vagas: "[XX]",                        // ex.: "40"
 
   /* --- Quem conduz ------------------------------------------------------ */
-  bioDeise: "Coach, Consultora, Sócia da Descomplicouti e Proprietária do espaço cultural Burkadaguti",
+  bioDeise: "Sócia da Descomplicouti | Especialista em Desenvolvimento Humano e Liderança | Coach Ontológica e Neurobiológica | Executiva de Educação Corporativa | Consultora | Palestrante | Facilitadora de Líderes e Times",
   bioJessica: "Sócia fundadora na Descomplicouti | Neuroespecialista comportamental | Professora de Inteligência Emocional | Master Coach | Palestrante | Consultora | Treinadora de Líderes e Times",
   bioMarcela: "Especialista em Gestão Comercial e processos, Fundadora & CEO da empresa @levelUP",
 
