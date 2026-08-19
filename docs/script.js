@@ -23,18 +23,15 @@ const CONFIG = {
   vagas: "[XX]",                        // ex.: "40"
 
   /* --- Quem conduz ------------------------------------------------------ */
-  cargoDeise: "[Cargo — Descomplicouti]",
-  bioDeise: "[Bio curta: 2 a 3 linhas sobre trajetória e especialidade.]",
-  cargoJessica: "[Cargo — Descomplicouti]",
-  bioJessica: "[Bio curta: 2 a 3 linhas sobre trajetória e especialidade.]",
-  cargoMarcela: "[Cargo — Level UP]",
-  bioMarcela: "[Bio curta: 2 a 3 linhas sobre trajetória e especialidade.]",
+  bioDeise: "Coach, Consultora, Sócia da Descomplicouti e Proprietária do espaço cultural Burkadaguti",
+  bioJessica: "Sócia fundadora na Descomplicouti | Neuroespecialista comportamental | Professora de Inteligência Emocional | Master Coach | Palestrante | Consultora | Treinadora de Líderes e Times",
+  bioMarcela: "Especialista em Gestão Comercial e processos, Fundadora & CEO da empresa @levelUP",
 
   /* --- Rodapé / contato ------------------------------------------------- */
-  email: "",                            // ex.: "contato@empresa.com.br"
+  email: "comercial@consultorialevelup.com.br",
   whatsapp: "",                         // só números, com DDI: ex. "5511999999999"
   instagram: "",                        // sem @: ex. "descomplicouti"
-  razaoSocial: "[RAZÃO SOCIAL · CNPJ 00.000.000/0000-00]",
+  razaoSocial: "Level UP LTDA · CNPJ 48.792.515/0001-06",
   privacidadeUrl: "",                   // URL da política de privacidade
 };
 
