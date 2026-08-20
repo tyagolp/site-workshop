@@ -8,7 +8,7 @@
 const CONFIG = {
   /* --- Inscrição ------------------------------------------------------- */
   // URL do formulário no Respondi (obrigatório antes de publicar):
-  formUrl: "https://forms.respondi.app/SEU-LINK-AQUI",
+  formUrl: "https://form.respondi.app/DqnMs2Ui",
   // Acrescenta ?utm_source=site&utm_content=header|hero|final a cada botão,
   // para medir qual posição converte. Desligue com false se não quiser.
   utm: true,
@@ -25,7 +25,7 @@ const CONFIG = {
   /* --- Quem conduz ------------------------------------------------------ */
   bioDeise: "Sócia da Descomplicouti | Especialista em Desenvolvimento Humano e Liderança | Coach Ontológica e Neurobiológica | Executiva de Educação Corporativa | Consultora | Palestrante | Facilitadora de Líderes e Times",
   bioJessica: "Sócia fundadora na Descomplicouti | Neuroespecialista comportamental | Professora de Inteligência Emocional | Master Coach | Palestrante | Consultora | Treinadora de Líderes e Times",
-  bioMarcela: "Especialista em Gestão Comercial e processos, Fundadora & CEO da empresa @levelUP",
+  bioMarcela: "Especialista em Estratégia Comercial, Processos & CRM Atuação estratégica em Vendas e Telecomunicações Consultora em Processos |  Certificação 8S Fundadora & CEO @LevelUP",
 
   /* --- Rodapé / contato ------------------------------------------------- */
   email: "comercial@consultorialevelup.com.br",
